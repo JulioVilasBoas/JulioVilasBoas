@@ -21,7 +21,7 @@
 ## Projetos:
 
 ### 1. *EcoTrack (Aplicação Web com Django)*
-   - Descrição: Desenvolvimento de uma aplicação web utilizando o framework Django, criada para um sistema de coleta de lixo reciclável em Recife. A aplicação inclui funcionalidades de CRUD e recursos de geolocalização para otimizar as rotas de coleta.
+   - Descrição: Desenvolvimento de uma aplicação web utilizando o framework Django, criada para um sistema de coleta de lixo reciclável. A aplicação inclui funcionalidades de CRUD e recursos de geolocalização para otimizar as rotas de coleta.
    - Tecnologias: Python, Django, HTML, CSS, JavaScript
    - [Link para o repositório](https://github.com/JulioVilasBoas/EcoTrack)
 
