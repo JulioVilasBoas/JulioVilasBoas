@@ -27,5 +27,5 @@
 
 ## Contato
 <a href = "mailto:jcavilasboas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-vilas-b%C3%B4as-710b4a34b/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/julio-cesar-vilas-boas/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
