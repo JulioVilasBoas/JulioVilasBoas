@@ -31,7 +31,7 @@
 3. Aplicação Web com Django (Jatobá)
    - Descrição: Jatobá é uma aplicação web desenvolvida com o framework Django, projetada para auxiliar pequenos agricultores a gerenciar suas lavouras de forma eficiente, sustentável e colaborativa. A aplicação inclui funcionalidades CRUD, permitindo aos agricultores      organizar, rastrear e otimizar suas atividades agrícolas.
    - Tecnologias utilizadas: Python, Django, HTML, CSS, JavaScript, SQLite, Github.
-   - - [Link para o repositório](https://github.com/JulioVilasBoas/Projeto13)
+   - [Link para o repositório](https://github.com/JulioVilasBoas/Projeto13)
 
 ## Contato
 <a href = "mailto:jcavilasboas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
