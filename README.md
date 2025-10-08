@@ -9,13 +9,13 @@
 </div>
 
 ### Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,java,javascript,c,html,css)](https://skillicons.dev)
 
 ### Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 ### Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,mysql,eclipse,idea)](https://skillicons.dev)<br><br>
 
 ## Projetos:
 
