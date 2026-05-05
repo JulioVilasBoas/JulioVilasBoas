@@ -74,7 +74,7 @@ Identifiquei uma vulnerabilidade crítica de **chave criptográfica hardcoded (C
 
 ---
 
-## 🚀 Projetos
+## 🧑🏻‍💻 Projetos
 
 ### 🔍 [Network Intrusion Detector ML](https://github.com/JulioVilasBoas/Network-Intrusion-Detector-ML)
 `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
