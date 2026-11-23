@@ -1,14 +1,14 @@
 <!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C853&size=36&center=true&vCenter=true&width=1000&lines=Pentester+Web+%26+Security+Researcher;ISC2+Certified+in+Cybersecurity+(CC);Top+8%25+TryHackMe+%F0%9F%8F%86;CVE+Request+Active+%E2%80%A2+MITRE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C853&size=36&center=true&vCenter=true&width=1000&lines=Analista+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;SOC+N%C3%ADvel+1+%26+Pentest+Web;ISC2+Certified+in+Cybersecurity+(CC);Top+6%25+TryHackMe+%F0%9F%8F%86;CVE+Request+Ativo+%E2%80%A2+MITRE)](https://git.io/typing-svg)
 
 # Júlio César Aragão Vilas Bôas
 
-**Pentester Web · Security Researcher · CS Student @ CESAR School**
+**Analista de Segurança da Informação · SOC Nível 1 · Pentest Web · CS Student @ CESAR School**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-vilas-boas/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%208%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JulioCAVB)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%206%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JulioCAVB)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcaragaovb@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/julio-cesar-vilas-boas)
 
@@ -19,21 +19,33 @@
 ## 👾 Sobre mim
 
 ```python
-class SecurityResearcher:
+class SecurityAnalyst:
     def __init__(self):
         self.name       = "Júlio César Aragão Vilas Bôas"
-        self.role       = "Pentester Web & Security Researcher"
-        self.education  = "Computer Science @ CESAR School (2024–2027)"
-        self.focus      = ["Red Team", "Pentest Web", "SOC", "Backend com foco em segurança"]
+        self.role       = "Analista de Segurança da Informação"
+        self.education  = "Ciência da Computação @ CESAR School (2024–2027)"
+        self.focus      = ["SOC / Blue Team", "Pentest Web", "Resposta a Incidentes", "Security Research"]
 
     def current_status(self):
         return {
-            "certification" : "ISC2 Certified in Cybersecurity (CC)",
-            "ranking"       : "Top 8% TryHackMe 🏆",
+            "certifications": ["ISC2 Certified in Cybersecurity (CC)", "SOC Level 1 (THM)", "Jr Penetration Tester (THM)"],
+            "ranking"       : "Top 6% TryHackMe 🏆",
             "research"      : "CVE Request ativo no MITRE - CVSS 9.8 Critical (Fev/2026)",
-            "role"          : "Monitor de Infraestrutura de Redes @ CESAR School",
+            "role"          : "Monitor de Infraestrutura de Comunicação (Redes) @ CESAR School",
+            "english"       : "C2 Proficient (EF SET)",
         }
 ```
+
+---
+
+## 💼 Experiência
+
+- **Monitor de Infraestrutura de Comunicação (Redes)** · CESAR School · Fev/2026 - Jun/2026 e Ago/2026 - Atual
+  Monitorias de TCP/IP, modelo OSI, subnetting e firewalls, com revisão de avaliações e projetos de alunos.
+- **Desenvolvedor Estagiário** · IPEM-PE · Abr/2023 - Abr/2025
+  Atendimento de chamados de TI e manutenção de código de sites e sistemas do órgão.
+- **CTF Web Pentest · CESAR School** · 🥈 2º lugar · Mai/2026
+  Exploração de falhas de autenticação, SQL Injection, XSS, com escalonamento de privilégios por manipulação de cookies no Burp Suite.
 
 ---
 
@@ -52,19 +64,34 @@ Identifiquei uma vulnerabilidade crítica de **chave criptográfica hardcoded (C
 
 ## 🛠️ Stack & Ferramentas
 
-### Cibersegurança & Pentest
+### SOC & Monitoramento
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![QRadar](https://img.shields.io/badge/QRadar-054ADA?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
+![Snort](https://img.shields.io/badge/Snort-333?style=flat-square)
+![Shuffle](https://img.shields.io/badge/Shuffle_SOAR-333?style=flat-square)
+![Google SecOps](https://img.shields.io/badge/Google_SecOps-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Competências:** SIEM · EDR · SOAR · IDS · Threat Intelligence · Triagem de Alertas · Resposta a Incidentes · Detecção de Ameaças · Análise de Phishing · Análise de Malware · MITRE ATT&CK
+
+### Pentest & Segurança Ofensiva
 [![My Skills](https://skillicons.dev/icons?i=kali,linux)](https://skillicons.dev)
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-333?style=flat-square)
 ![Gobuster](https://img.shields.io/badge/Gobuster-333?style=flat-square)
 ![Ffuf](https://img.shields.io/badge/Ffuf-333?style=flat-square)
 ![Hydra](https://img.shields.io/badge/Hydra-333?style=flat-square)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-333?style=flat-square)
 
-**Técnicas:** OWASP Top 10 · OSINT · Vulnerability Assessment · Pentest Web & Redes
+**Técnicas e metodologias:** OWASP Top 10 · OSINT · Vulnerability Assessment · Pentest Web & Redes · ISO 27001 · BCP · DRP
+
+### Redes
+TCP/IP · Modelo OSI · Subnetting · Firewalls · VLAN · Roteamento · DNS · DHCP · Wireshark · NetworkMiner
 
 ### Linguagens & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,html,css,django,bash)](https://skillicons.dev)
@@ -111,11 +138,13 @@ Aplicação desktop completa para agência de viagens com modelagem DER, normali
 
 | Certificação | Emissor | Ano |
 |---|---|---|
-| 🥇 Certified in Cybersecurity (CC) | ISC2 | 2025 |
-| 🎯 Jr Penetration Tester | TryHackMe | 2025 |
+| 🥇 [Certified in Cybersecurity (CC)](https://www.credly.com/badges/86a95653-01d7-41d5-9418-4a9727db50ee/public_url) | ISC2 | 2025 |
+| 🛡️ SOC Level 1 | TryHackMe | 2026 |
+| 🎯 [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CTRGRNKPGI.pdf) | TryHackMe | 2025 |
 | 🔐 Pre Security | TryHackMe | 2024 |
 | 🌐 Introduction to Cybersecurity | Cisco Networking Academy | 2024 |
 | 📋 Fundamentos em Seg. da Informação (ISO 27001) | CESAR School | 2024 |
+| 🇺🇸 [EF SET English Certificate - C2 Proficient](https://cert.efset.org/AU1a9H) | EF SET | 2026 |
 
 ---
 
